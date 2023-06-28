@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: demo
+  description: An example deployment of a Backstage application.
+spec:
+  type: website
+  owner: Ashwini, cumulas
+  lifecycle: experimental
