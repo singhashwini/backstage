@@ -4,8 +4,6 @@ metadata:
   name: demo
   description: An example deployment of a Backstage application.
   annotations:
-    backstage.io/techdocs-ref: value
-  annotations:
     backstage.io/code-coverage: 90
 spec:
   type: website
